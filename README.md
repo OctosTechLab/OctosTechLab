@@ -1,3 +1,5 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 # Hello, I'm Wieske ♡
 <a href="https://wieske-cv.nl/" target="_blank"><img src="https://img.shields.io/badge/Wieske--CV-yellow?style=social&label=URL%3A" /></a>
 <a href="https://www.linkedin.com/in/wieske-r-5a528066" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
