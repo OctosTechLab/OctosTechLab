@@ -18,11 +18,14 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
+<!-- 
 <a href="https://wieske-cv.nl/" target="_blank"><img src="https://img.shields.io/badge/Wieske--CV-yellow?style=social&label=URL%3A" /></a>
 <a href="https://www.linkedin.com/in/wieske-r-5a528066" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/hacker0Zero" target="_blank"><img src="https://img.shields.io/badge/%E2%84%8D%E2%82%B3%E2%84%82%E2%82%AD%E2%84%B0%E2%84%BE%E2%8D%AC-black?style=for-the-badge&logo=x" /></a>
+ -->
 
-I'm a security analyst, also known as an ethical hacker. My expertise spans various domains, including reverse engineering, penetration testing, bug bounty hunting, and conducting red team exercises. As a security consultant, I closely collaborate with organizations to assess their systems and identify vulnerabilities before malicious actors can exploit them. My passion lies in safeguarding digital ecosystems through thorough analysis, solution-focused strategies, and ensuring operational security (OPSEC).
+# I'm a security analyst 
+Security analyst, also known as an ethical hacker. My expertise spans various domains, including reverse engineering, penetration testing, bug bounty hunting, and conducting red team exercises. As a security consultant, I closely collaborate with organizations to assess their systems and identify vulnerabilities before malicious actors can exploit them. My passion lies in safeguarding digital ecosystems through thorough analysis, solution-focused strategies, and ensuring operational security (OPSEC).
 
 ## Objective
 
@@ -30,27 +33,18 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Incident Response Planning and Execution      | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Case Management with TheHive                  | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Skill                                         | Associated Project                                                          | | Skill                                         | Experiences Project         |
+|-----------------------------------------------|-----------------------------------------------------------------------------|-|-----------------------------------------------|-----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|     | SQLi                                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|   | SIEM - Azure Sentinel :: Honeypot        | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|     | Active Directory Environment in Azure    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Incident Response Planning and Execution      | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|     | File Integrity Monitor (FIM)            | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Case Management with TheHive                  | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|     | Vulnerability Management                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|    | REST API                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| | | | Sandbox                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| | | | Endpoint protection                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| | | | Password Generator                    | <a href="https://wieske-cv.nl/password-generator-master/docs/index.html">Lab Environment</a>|
 
-| Skill                                         | Experiences Project         |
-|-----------------------------------------------|----------------------------|
-| SQLi                                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| SIEM - Azure Sentinel :: Honeypot        | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Active Directory Environment in Azure    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| File Integrity Monitor (FIM)            | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Vulnerability Management                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| REST API                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| IDS/IPS                                   | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Sandbox                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Endpoint protection                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Password Generator                    | <a href="https://wieske-cv.nl/password-generator-master/docs/index.html">Lab Environment</a>|
 
 ## Tools
 Vulnerability Assessment and Management:
