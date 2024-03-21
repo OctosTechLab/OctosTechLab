@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Wieske. I do open source!" src="./wies.png" /></a></p>
+<p align="center"><a href="https://wieske-cv.nl"><img width="80%" alt="Hello, I'm Wieske. I do open source!" src="./wies.png" /></a></p>
 
 <p align="center">
   <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
