@@ -16,6 +16,9 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <br><br>
+  <a href="https://gist.github.com/OctosTechLab/starred" target="_blank"><img width="32px" alt="gist.github" title="gist.github" src="https://benjaminbenais.gallerycdn.vsassets.io/extensions/benjaminbenais/copilot-theme/1.1.0/1678903433839/Microsoft.VisualStudio.Services.Icons.Default"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- 
