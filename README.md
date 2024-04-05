@@ -55,10 +55,10 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 - **Network Security Monitoring (NSM)**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Snort, Suricata, Zeek (formerly Bro)
 - **Intrusion Detection and Prevention Systems (IDPS)**: &nbsp; &nbsp; &nbsp;  Snort, Suricata, Security Onion, OSSEC
 - **Endpoint Security**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Symantec, McAfee, Carbon Black, CrowdStrike
-- **Security Information and Event Management (SIEM)**: &nbsp; &nbsp;  Splunk, QRadar, LogRhythm, ArcSight
-- **Data Loss Prevention (DLP)**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Symantec, McAfee, Digital Guardian, Forcepoint
-- **Web Application Security**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  OWASP ZAP, Acunetix, AppScan, Netsparker
-- **Encryption and Cryptography**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  OpenSSL, GnuPG, VeraCrypt, BitLocker
+- **Security Information and Event Management (SIEM)**: &nbsp;&nbsp; Splunk, QRadar, LogRhythm, ArcSight
+- **Data Loss Prevention (DLP)**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Symantec, McAfee, Digital Guardian, Forcepoint
+- **Web Application Security**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; OWASP ZAP, Acunetix, AppScan, Netsparker
+- **Encryption and Cryptography**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OpenSSL, GnuPG, VeraCrypt, BitLocker
 - **Password Management and Authentication**: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  LastPass, KeePass, Okta, Duo Security
 
 
